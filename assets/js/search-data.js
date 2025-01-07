@@ -30,21 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
-        },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "news-i-m-trying-to-make-a-new-personal-website-stay-tuned-for-more",
+        },{id: "news-i-m-trying-to-make-a-new-personal-website-stay-tuned-for-more",
           title: 'I’m trying to make a new personal website. Stay tuned for more.',
           description: "",
           section: "News",},{
