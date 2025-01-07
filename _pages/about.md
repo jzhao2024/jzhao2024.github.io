@@ -2,21 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://person.zju.edu.cn/jkzhao'>赵俊博</a>. 
+subtitle: <a href='https://person.zju.edu.cn/jkzhao'>赵俊博</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hangzhou, Zhejiang, China</p>
-    <p>Motto: 日拱一卒</p>
-    <p>Advance a little every day like a pawn in chess</p>
+    <p>Motto: 日拱一卒(Advance a little every day like a pawn in chess)</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+Bio:
 
 Junbo Zhao is a Assistant Professor at Zhejiang University, participating in the 100-Young Professor Program. 
 

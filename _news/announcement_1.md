@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm trying to make a new personal website.
+I'm trying to make a new personal website. Stay tuned for more.
