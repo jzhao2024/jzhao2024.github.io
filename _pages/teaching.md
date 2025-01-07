@@ -2,11 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: machine learning (an undergraduate course @ ZJU)
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+A 16-week theoretical and practical training of machine learning.
 
-Organize your courses by years, topics, or universities, however you like!
+The course can be watched at <a href='https://classroom.zju.edu.cn/livingroom?course_id=54682&sub_id=935197'>here</a>.
+
+More material will be uploaded soonish.
