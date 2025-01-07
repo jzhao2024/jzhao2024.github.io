@@ -44,7 +44,10 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{
+            },{id: "news-i-m-trying-to-make-a-new-personal-website-stay-tuned-for-more",
+          title: 'I’m trying to make a new personal website. Stay tuned for more.',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
