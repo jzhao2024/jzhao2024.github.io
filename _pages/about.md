@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>赵俊博</a>. 
+Motto: 日拱一卒(Advance a little every day like a pawn in chess)
 
 profile:
   align: right
@@ -10,16 +11,10 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Hangzhou, Zhejiang, China</p>
-    #<p>123 your address street</p>
-    #<p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Let me write this later! Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Junbo Zhao is a Assistant Professor at Zhejiang University, participating in the 100-Young Professor Program. He earned his Ph.D. in Computer Science from New York University in 2019 under the mentorship of Turing Award laureate Yann LeCun. From 2016 to the end of 2018, He worked as a contracted researcher at Meta Foundational AI Research (formerly Facebook AI Research - FAIR). He also worked at NVIDIA in 2015 and contributed to the development of the first end-to-end self-driving car project, which was showcased at GTC 2017 by Jensen Huang. Junbo Zhao has published numerous highly-cited papers in top-tier journals and conferences (see <a href='https://scholar.google.com/citations?user=8ipao8MAAAAJ&hl=en'>his google scholar page</a>). He also serves as an area chair or a reviewer for many top-tier AI conferences, including NeurIPS, ICML, ICLR, CVPR, ACL, and ICCV, as well as a few AI+X journals. He has received multiple awards, including the Zhejiang Province Science and Technology Progress First Prize, two WAIC SAIL Awards, and the cover figure of Forbes 30-under-30 in 2022.
