@@ -198,6 +198,14 @@
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
+      <!-- Added on hf and github -->
+      {% if entry.model %}
+        <a href="{{ entry.model }}" class="btn btn-sm z-depth-0" role="button">Model</a>
+      {% endif %}
+      {% if entry.git %}
+        <a href="{{ entry.git }}" class="btn btn-sm z-depth-0" role="button">Repository</a>
+      {% endif %}
+      <!-- Added done -->
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
