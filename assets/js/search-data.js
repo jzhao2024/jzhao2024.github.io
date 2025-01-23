@@ -26,6 +26,12 @@ ninja.data = [{
         },{id: "news-i-m-trying-to-make-a-new-personal-website-stay-tuned-for-more",
           title: 'I’m trying to make a new personal website. Stay tuned for more.',
           description: "",
+          section: "News",},{id: "news-three-papers-were-accpeted-at-iclr-2025-i-m-considering-going-to-singapore-this-time-haven-t-gone-to-iclr-since-the-pandemic",
+          title: 'Three papers were accpeted at ICLR 2025. I’m considering going to Singapore this...',
+          description: "",
+          section: "News",},{id: "news-one-paper-was-accpeted-at-naacl-2025",
+          title: 'One paper was accpeted at NAACL 2025.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
