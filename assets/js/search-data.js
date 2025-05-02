@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-was-accpeted-at-naacl-2025",
           title: 'One paper was accpeted at NAACL 2025.',
           description: "",
+          section: "News",},{id: "news-two-paper-was-accpeted-at-ijcai-2025",
+          title: 'Two paper was accpeted at IJCAI 2025.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
