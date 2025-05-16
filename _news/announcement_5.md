@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Four paper were accpeted at ACL 2025.
+Five paper were accpeted at ACL 2025.
