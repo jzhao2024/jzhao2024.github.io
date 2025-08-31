@@ -40,6 +40,9 @@ ninja.data = [{
             },},{id: "news-five-paper-were-accpeted-at-acl-2025",
           title: 'Five paper were accpeted at ACL 2025.',
           description: "",
+          section: "News",},{id: "news-six-paper-were-accpeted-at-emnlp-2025",
+          title: 'Six paper were accpeted at EMNLP 2025.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
