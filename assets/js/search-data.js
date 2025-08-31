@@ -32,10 +32,12 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-was-accpeted-at-naacl-2025",
           title: 'One paper was accpeted at NAACL 2025.',
           description: "",
-          section: "News",},{id: "news-two-paper-was-accpeted-at-ijcai-2025",
-          title: 'Two paper was accpeted at IJCAI 2025.',
+          section: "News",},{id: "news-",
+          title: '',
           description: "",
-          section: "News",},{id: "news-five-paper-were-accpeted-at-acl-2025",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "news-five-paper-were-accpeted-at-acl-2025",
           title: 'Five paper were accpeted at ACL 2025.',
           description: "",
           section: "News",},{
