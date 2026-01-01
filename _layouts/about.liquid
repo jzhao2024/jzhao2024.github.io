@@ -57,6 +57,11 @@ layout: default
     {% endif %}
 
     <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <h2>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit"></a>
+      </h2>
+    {% endif %}
 
     <!-- Social -->
     {% if page.social %}
