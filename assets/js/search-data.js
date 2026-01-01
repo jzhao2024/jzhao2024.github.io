@@ -23,25 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-i-m-trying-to-make-a-new-personal-website-stay-tuned-for-more",
-          title: 'I’m trying to make a new personal website. Stay tuned for more.',
-          description: "",
-          section: "News",},{id: "news-three-papers-were-accpeted-at-iclr-2025-i-m-considering-going-to-singapore-this-time-haven-t-gone-to-iclr-since-the-pandemic",
-          title: 'Three papers were accpeted at ICLR 2025. I’m considering going to Singapore this...',
-          description: "",
-          section: "News",},{id: "news-one-paper-was-accpeted-at-naacl-2025",
-          title: 'One paper was accpeted at NAACL 2025.',
-          description: "",
-          section: "News",},{id: "news-",
-          title: '',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
-            },},{id: "news-five-paper-were-accpeted-at-acl-2025",
-          title: 'Five paper were accpeted at ACL 2025.',
-          description: "",
-          section: "News",},{id: "news-six-paper-were-accpeted-at-emnlp-2025",
+        },{id: "news-six-paper-were-accpeted-at-emnlp-2025",
           title: 'Six paper were accpeted at EMNLP 2025.',
+          description: "",
+          section: "News",},{id: "news-llada-2-0-fully-released-and-opened",
+          title: 'LLaDA 2.0 fully released and opened.',
           description: "",
           section: "News",},{
         id: 'social-email',
