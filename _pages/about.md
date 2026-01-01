@@ -18,10 +18,11 @@ social: true # includes social icons at the bottom of the page
 
 Bio:
 
-Junbo Zhao is a Assistant Professor at Zhejiang University, participating in the 100-Young Professor Program. 
+Junbo Zhao is an Assistant Professor at Zhejiang University, under the 100-Young Professor Program.
+He also holds a Director position (part-time) at Ant Group, where he notably spearheads the LLaDA project to challenge the dominant autoregressive paradigm.
 
-He earned his Ph.D. in Computer Science from New York University in 2019 under the mentorship of Turing Award laureate Yann LeCun. From 2016 to the end of 2018, He worked as a contracted researcher at Meta Foundational AI Research (formerly Facebook AI Research - FAIR). He also worked at NVIDIA in 2015 and contributed to the development of the first end-to-end self-driving car project, which was showcased at GTC 2017 by Jensen Huang.
+He earned his Ph.D. in Computer Science from New York University in 2019 under the mentorship of Turing Award laureate Yann LeCun. From 2016 to 2018, he worked as a contracted researcher at Meta Foundational AI Research (formerly Facebook AI Research - FAIR). He also worked at NVIDIA in 2015 and contributed to the development of the first end-to-end self-driving car project, which was showcased at GTC 2017 by Jensen Huang.
 
-Junbo Zhao has published numerous highly-cited papers in top-tier journals and conferences (see <a href='https://scholar.google.com/citations?user=8ipao8MAAAAJ&hl=en'>his google scholar page</a>). He also serves as an area chair or a reviewer for many top-tier AI conferences, including NeurIPS, ICML, ICLR, CVPR, ACL, and ICCV, as well as a few AI+X journals.
+Junbo has published numerous highly-cited papers in top-tier journals and conferences (see <a href='https://scholar.google.com/citations?user=8ipao8MAAAAJ&hl=en'>his Google Scholar page</a>). He also serves as an Area Chair or a reviewer for many top-tier AI conferences, including NeurIPS, ICML, ICLR, CVPR, ACL, and ICCV, as well as several AI+X journals.
 
 He has received multiple awards, including the Zhejiang Province Science and Technology Progress First Prize, two WAIC SAIL Awards, and the cover figure of Forbes 30-under-30 in 2022.
