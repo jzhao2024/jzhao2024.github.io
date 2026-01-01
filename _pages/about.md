@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://person.zju.edu.cn/jkzhao'>赵俊博</a>
+subtitle: <a href='https://person.zju.edu.cn/jkzhao'>赵俊博（官方主页）</a>
 
 profile:
   align: right
@@ -19,6 +19,7 @@ social: true # includes social icons at the bottom of the page
 Bio:
 
 Junbo Zhao is an Assistant Professor at Zhejiang University, under the 100-Young Professor Program.
+
 He also holds a Director position at Ant Group, where he notably spearheads the LLaDA project to challenge the dominant autoregressive paradigm.
 
 He earned his Ph.D. in Computer Science from New York University in 2019 under the mentorship of Turing Award laureate Yann LeCun. From 2016 to 2018, he worked as a contracted researcher at Meta Foundational AI Research (formerly Facebook AI Research - FAIR). He also worked at NVIDIA in 2015 and contributed to the development of the first end-to-end self-driving car project, which was showcased at GTC 2017 by Jensen Huang.
