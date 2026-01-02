@@ -16,13 +16,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Now:
-
 Assistant Professor, Zhejiang University
+
 Director, Ant Group
 
 
 Bio (2026 Version)
+
 Junbo Zhao is an Assistant Professor at Zhejiang University (100-Young Professor Program) and a Director at Ant Group.
 
 Current Focus (2025+): He focuses on two pivotal frontiers:
