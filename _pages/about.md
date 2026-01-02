@@ -16,14 +16,21 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Bio:
+Now:
 
-Junbo Zhao is an Assistant Professor at Zhejiang University, under the 100-Young Professor Program.
+Assistant Professor, Zhejiang University
+Director, Ant Group
 
-He also holds a Director position at Ant Group, where he notably spearheads the LLaDA project to challenge the dominant autoregressive paradigm.
 
-He earned his Ph.D. in Computer Science from New York University in 2019 under the mentorship of Turing Award laureate Yann LeCun. From 2016 to 2018, he worked as a contracted researcher at Meta Foundational AI Research (formerly Facebook AI Research - FAIR). He also worked at NVIDIA in 2015 and contributed to the development of the first end-to-end self-driving car project, which was showcased at GTC 2017 by Jensen Huang.
+Bio (2026 Version)
+Junbo Zhao is an Assistant Professor at Zhejiang University (100-Young Professor Program) and a Director at Ant Group.
 
-Junbo has published numerous highly-cited papers in top-tier journals and conferences (see <a href='https://scholar.google.com/citations?user=8ipao8MAAAAJ&hl=en'>his Google Scholar page</a>). He also serves as an Area Chair or a reviewer for many top-tier AI conferences, including NeurIPS, ICML, ICLR, CVPR, ACL, and ICCV, as well as several Nature journals.
+Current Focus (2025+): He focuses on two pivotal frontiers:
 
-He has received multiple awards, including the Zhejiang Province Science and Technology Progress First Prize, two WAIC SAIL Awards, and the cover figure of Forbes 30-under-30 in 2022.
+<b>Next-Gen Scaling (dLLMs)</b>: Spearheading <b>LLaDA 2.0 (100B MoE)</b>, a diffusion language model that matches AR performance with doubled inference speed.
+
+<b>The "Second Half" of Data</b>: Moving from quantity to density. He explores high-leverage data strategies (synthesis, distillation, and evaluation benchmarks like <b>HeartBench</b>) to unlock efficiency.
+
+<b>Background</b>: In 2024, he led the <b>TableGPT</b> project (TableGPT2 & R1), achieving over 200k downloads and widespread industry adoption in finance and manufacturing. He earned his Ph.D. from NYU under Turing Award laureate Yann LeCun. Previously, he contributed to foundational frameworks (PyTorch, FAISS) at Meta FAIR and developed the first end-to-end self-driving system at NVIDIA (showcased at GTC).
+
+<b>Impact</b>: His work has garnered over 26,000 citations (as of Jan 2026). He is a recipient of the Zhejiang Province Science and Technology Progress First Prize (2024), the QbitAI 2025 AI Person of the Year, the WAIC Yunfan Award, and was featured on the cover of Forbes 30-under-30.
