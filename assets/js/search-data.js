@@ -35,6 +35,12 @@ ninja.data = [{
           section: "News",},{id: "news-tablegpt-r1-fully-released-and-opened",
           title: 'TableGPT-R1 fully released and opened.',
           description: "",
+          section: "News",},{id: "news-four-papers-accepted-at-iclr-2026",
+          title: 'Four papers accepted at ICLR 2026.',
+          description: "",
+          section: "News",},{id: "news-llada-2-1-fully-released-and-opened",
+          title: 'LLaDA 2.1 fully released and opened.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
