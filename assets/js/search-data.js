@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "machine learning (an undergraduate course @ ZJU)",
@@ -23,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-six-paper-were-accpeted-at-emnlp-2025",
+        },{id: "post-hello-world",
+      
+        title: "hello world",
+      
+      description: "a first test blog post.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/notes/2026/04/25/hello-world.html";
+        
+      },
+    },{id: "news-six-paper-were-accpeted-at-emnlp-2025",
           title: 'Six paper were accpeted at EMNLP 2025.',
           description: "",
           section: "News",},{id: "news-heartbench-evaluating-llms-anthropomorphicity-is-released",
@@ -40,6 +58,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-llada-2-1-fully-released-and-opened",
           title: 'LLaDA 2.1 fully released and opened.',
+          description: "",
+          section: "News",},{id: "news-llada-2-0-uni-unified-multimodal-dllm-moe-released-and-opened",
+          title: 'LLaDA 2.0-Uni (unified multimodal dLLM-MoE) released and opened.',
           description: "",
           section: "News",},{
         id: 'social-email',
