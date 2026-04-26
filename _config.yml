@@ -93,8 +93,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 #lsi: false # produce an index for related posts
 #
 ## Pagination
-#pagination:
-#  enabled: true
+pagination:
+  enabled: true
 #
 #related_blog_posts:
 #  enabled: true

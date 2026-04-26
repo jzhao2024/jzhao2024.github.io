@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-LLaDA 2.1 fully released and opened.
+LLaDA 2.1 fully [released and opened](https://huggingface.co/inclusionAI/LLaDA2.1-flash).

@@ -27,10 +27,10 @@ Junbo Zhao is an Assistant Professor at Zhejiang University (100-Young Professor
 
 Current Focus (2025+): He focuses on two pivotal frontiers:
 
-<b>Next-Gen Scaling (dLLMs)</b>: Spearheading <b>LLaDA 2.0 (100B MoE)</b>, a diffusion language model that matches AR performance with doubled inference speed.
+<b>Next-Gen Scaling (dLLMs)</b>: Spearheading <b>LLaDA 2.X series (Including LLaDA 2.1 and 2.0)</b>, a diffusion language model family that matches AR performance with 5x inference speed minimal improvement by far; and <b>LLaDA 2.0-Uni</b>, a unified multimodal dLLM-MoE integrating understanding and generation, producing interleaving form of output natively.
 
 <b>The "Second Half" of Data</b>: Moving from quantity to density. He explores high-leverage data strategies (synthesis, distillation, and evaluation benchmarks like <b>HeartBench</b>) to unlock efficiency.
 
 <b>Background</b>: In 2024, he led the <b>TableGPT</b> project (TableGPT2 & R1), achieving over 200k downloads and widespread industry adoption in finance and manufacturing. He earned his Ph.D. from NYU under Turing Award laureate Yann LeCun. Previously, he contributed to foundational frameworks (PyTorch, FAISS) at Meta FAIR and developed the first end-to-end self-driving system at NVIDIA (showcased at GTC).
 
-<b>Impact</b>: His work has garnered over 26,000 citations (as of Jan 2026). He is a recipient of the Zhejiang Province Science and Technology Progress First Prize (2024), the QbitAI 2025 AI Person of the Year, the WAIC Yunfan Award, and was featured on the cover of Forbes 30-under-30.
+<b>Impact</b>: His work has garnered over 28,000 citations (as of April 2026). He is a recipient of the Zhejiang Province Science and Technology Progress First Prize (2024 & 2023), the QbitAI 2025 AI Person of the Year, the WAIC Yunfan Award, and was featured on the cover of Forbes 30-under-30.
