@@ -62,9 +62,6 @@ ninja.data = [{
           section: "News",},{id: "news-llada-2-0-uni-unified-multimodal-dllm-moe-released-and-opened",
           title: 'LLaDA 2.0-Uni (unified multimodal dLLM-MoE) released and opened.',
           description: "",
-          section: "News",},{id: "news-llada-2-2-the-first-agentic-diffusion-language-model-released-and-opened",
-          title: 'LLaDA 2.2, the first Agentic Diffusion Language Model released and opened.',
-          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
