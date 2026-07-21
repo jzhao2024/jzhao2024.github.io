@@ -27,7 +27,7 @@ Junbo Zhao is an Assistant Professor at Zhejiang University (100-Young Professor
 
 Current Focus (2025+): He focuses on three pivotal frontiers:
 
-<b>Scaling of World models/Embodied AI</b>: How can we physical world data, simulation data and human-centric data altogether to scale, and can further be deployed in policies. WE DO NET YET HAVE A SCALING LAW here...
+<b>Scaling of World models/Embodied AI</b>: How can the physical world data, simulation data and human-centric data combined altogether to scale (just like the way of LLM's pretraining), and can further be deployed in policies. WE DO NET YET HAVE A SCALING LAW here... stay tuned.
 
 <b>Next-Gen Scaling (dLLMs)</b>: Spearheading <b>LLaDA 2.X series (Including LLaDA 2.2, Unified model, 2.1 and 2.0)</b>, a diffusion language model family that matches AR performance with 5x inference speed minimal improvement by far; and <b>LLaDA 2.0-Uni</b>, a unified multimodal dLLM-MoE integrating understanding and generation, producing interleaving form of output natively.
 
