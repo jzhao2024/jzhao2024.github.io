@@ -160,7 +160,6 @@ _styles: >
   }
 ---
 
-**LLaDA Team, Ant Group**  
 _Writing assisted by Codex/GPT5.6_
 
 _本文的英文版见 [English version]({% post_url 2026-08-08-diffusion-language-models %})。_
