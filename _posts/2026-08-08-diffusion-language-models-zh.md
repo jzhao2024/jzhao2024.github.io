@@ -8,6 +8,156 @@ categories: notes
 related_posts: false
 toc:
   sidebar: left
+_styles: >
+  .post-content {
+    font-size: 1.05rem;
+    line-height: 1.9;
+  }
+
+  #markdown-content > p {
+    margin-bottom: 1.3rem;
+  }
+
+  /* byline + language switch */
+
+  #markdown-content > p:first-child {
+    margin-bottom: 0.3rem;
+    line-height: 1.6;
+  }
+
+  #markdown-content > p:first-child em {
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+  }
+
+  #markdown-content > p:nth-child(2) {
+    margin-bottom: 2.4rem;
+    padding-bottom: 1.6rem;
+    border-bottom: 1px solid var(--global-divider-color);
+    font-size: 0.9rem;
+  }
+
+  /* headings */
+
+  #markdown-content h2 {
+    margin-top: 3.2rem;
+    margin-bottom: 1.2rem;
+    padding-bottom: 0.45rem;
+    font-size: 1.55rem;
+    font-weight: 600;
+    line-height: 1.35;
+    border-bottom: 1px solid var(--global-divider-color);
+    scroll-margin-top: 5rem;
+  }
+
+  #markdown-content h3 {
+    margin-top: 2.3rem;
+    margin-bottom: 0.85rem;
+    font-size: 1.28rem;
+    font-weight: 600;
+    scroll-margin-top: 5rem;
+  }
+
+  #markdown-content h2#practical-thoughts {
+    margin: 4.5rem 0 2.2rem;
+    padding: 1rem 0;
+    border-top: 1px solid var(--global-divider-color);
+    border-bottom: 1px solid var(--global-divider-color);
+    text-align: center;
+    font-size: 1.3rem;
+    letter-spacing: 0.08em;
+    color: var(--global-theme-color);
+  }
+
+  /* lists */
+
+  #markdown-content ul,
+  #markdown-content ol {
+    margin-bottom: 1.4rem;
+  }
+
+  #markdown-content li {
+    margin-bottom: 0.3rem;
+  }
+
+  /* tables */
+
+  #markdown-content table {
+    width: 100%;
+    margin: 1.9rem 0;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
+
+  #markdown-content table th {
+    padding: 0.6rem 0.9rem;
+    border-bottom: 2px solid var(--global-theme-color);
+    font-weight: 600;
+  }
+
+  #markdown-content table td {
+    padding: 0.55rem 0.9rem;
+    border-top: 1px solid var(--global-divider-color);
+    vertical-align: top;
+  }
+
+  #markdown-content table tbody tr:nth-child(even) {
+    background-color: var(--global-code-bg-color);
+  }
+
+  /* pull quotes */
+
+  #markdown-content blockquote {
+    margin: 2rem 0;
+    padding: 1.1rem 1.4rem;
+    font-size: 1.05rem;
+    line-height: 1.7;
+    border-left: 4px solid var(--global-theme-color);
+    background-color: var(--global-code-bg-color);
+    border-radius: 0 6px 6px 0;
+  }
+
+  /* display equations */
+
+  #markdown-content mjx-container[display="true"] {
+    margin: 1.9rem -1.5rem;
+    padding: 1.2rem 1.5rem;
+    background-color: var(--global-code-bg-color);
+    border-radius: 6px;
+  }
+
+  /* code blocks */
+
+  #markdown-content div.highlight {
+    margin: 1.6rem 0;
+  }
+
+  #markdown-content pre {
+    padding: 0.9rem 1.1rem;
+    line-height: 1.5;
+    overflow-x: auto;
+  }
+
+  @media (max-width: 900px) {
+    #markdown-content mjx-container[display="true"] {
+      margin: 1.9rem 0;
+      padding: 1.1rem 0.75rem;
+      overflow-x: auto;
+      overflow-y: hidden;
+    }
+  }
+
+  @media (max-width: 600px) {
+    #markdown-content table {
+      display: block;
+      overflow-x: auto;
+      font-size: 0.85rem;
+    }
+    #markdown-content h2 {
+      font-size: 1.35rem;
+    }
+  }
 ---
 
 **LLaDA Team, Ant Group**  
