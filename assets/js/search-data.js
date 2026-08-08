@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-hello-world",
+        },{id: "post-some-theoretical-and-practical-thoughts-on-diffusion-language-models",
+      
+        title: "Some Theoretical and Practical Thoughts on Diffusion Language Models",
+      
+      description: "A retrospective on the past year of work on diffusion language models, from LLaDA-MoE to LLaDA 2.2, and on what it would take for dLLMs to become an independent scaling paradigm.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/notes/2026/08/08/diffusion-language-models.html";
+        
+      },
+    },{id: "post-some-theoretical-and-practical-thoughts-on-diffusion-language-models-中文版",
+      
+        title: "Some Theoretical and Practical Thoughts on Diffusion Language Models（中文版）",
+      
+      description: "过去一年 dLLM 工作的一次回顾，从 LLaDA-MoE 到 LLaDA 2.2，以及 dLLM 能否成为一条独立 scaling paradigm 的一些思考。",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/notes/2026/08/08/diffusion-language-models-zh.html";
+        
+      },
+    },{id: "post-hello-world",
       
         title: "hello world",
       
